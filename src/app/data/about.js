@@ -22,22 +22,22 @@ export const ABOUT = {
   services: [
     {
       title: "Mobile Apps",
-      text: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      text: "I am a skilled React Native mobile app developer with a passion for creating high-performance cross-platform applications.",
       icon: <MdOutlineAppSettingsAlt size={33} />,
     },
     {
       title: "Web Development",
-      text: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      text: "As a web developer with a strong foundation in building dynamic, user-friendly, and responsive websites and web applications.",
       icon: <GoDeviceDesktop size={33} />,
     },
     {
       title: "UI/UX Design",
-      text: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      text: "My expertise spans front-end development, UI/UX design, and scalable web architectures, ensuring that every project.",
       icon: <MdOutlineDesignServices size={33} />,
     },
     {
       title: "Web Design",
-      text: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      text: "My focus is on delivering designs that not only look great but also provide seamless functionality and an exceptional user experience.",
       icon: <SiAdobeindesign size={33} />,
     },
   ],

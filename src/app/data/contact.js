@@ -6,5 +6,5 @@ export const CONTACT = {
   location: "South Banasree, Dhaka,",
   country: "Bangladesh",
   email: "coderapurba@gmail.com",
-  phone: "+880 1767 402247",
+  phone: "+880 1703 250661",
 };

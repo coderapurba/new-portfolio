@@ -35,14 +35,14 @@ export const RESUME = {
     },
     {
       year: "2021 - 2023",
-      company: "KS Devware",
+      company: "LYXA",
       role: "Frontend React Native Developer",
       description:
         "In this role, you were responsible for developing and maintaining mobile applications using React Native, focusing on creating seamless, high-performance user interfaces for iOS and Android platforms.",
     },
     {
       year: "2010 - 2015",
-      company: "Pocotep LLC",
+      company: "Millian Club",
       role: "Web Designer",
       description:
         "As a Web Designer at Pocotep LLC, you specialized in creating visually compelling and user-centric website designs. Your responsibilities included conceptualizing and implementing responsive designs.",
