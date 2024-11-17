@@ -1,6 +1,6 @@
-# Devware - React Personal Portfolio Tailwind CSS Template
+# React Personal Portfolio Tailwind CSS Template
 
-## ****Getting Started****
+## \***\*Getting Started\*\***
 
 ### **Installation**
 
@@ -34,4 +34,5 @@ The build is minified and the filenames include the hashes. Your app is ready to
 ---
 
 # **Documentation**
+
 [Visit Documentation](https://coderkhalid.notion.site/e312a68e3366421280ad482b66c2e4f5)
